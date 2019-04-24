@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/byilmaz0906/buraksample/_apis/build/status/BurakYilmaz92.pipelines-python-django?branchName=master)](https://dev.azure.com/byilmaz0906/buraksample/_build/latest?definitionId=5&branchName=master)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
